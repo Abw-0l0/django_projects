@@ -1,0 +1,55 @@
+body{
+    background-color:#F8F8F8!important;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+
+.social-links ul, li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+}
+
+.social0{
+    color: black;
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.cola{
+    height: 330px;
+    width: 340px;
+    margin-left: 80px;
+}
+
+.colaa{
+    height: 330px;
+    width: 900px;
+    margin-left: 10px;
+}
+
+.side-bar{
+    height: 330px;
+    width: 140px;
+    margin-left: 10px;
+}
